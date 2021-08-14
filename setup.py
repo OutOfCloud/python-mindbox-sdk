@@ -5,6 +5,6 @@ setup(name='mindbox-sdk',
       description='Some classes for mindbox API',
       packages=['mindbox_sdk',],
       install_requires=['requests', 'aiohttp'],
-      license='MIT',
+      license='Apache-2.0',
       author_email='anton.k@outofcloud.ru',
       zip_safe=False)
